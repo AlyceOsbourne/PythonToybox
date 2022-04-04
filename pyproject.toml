@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "alykats-useless-code-emporium"
+version = "0.0.0.1"
+description = "Here I will add various design structures, algorithms, generators and code snippets that have no real use on their own, but are too common to re-implement over and over."
+authors = ["Alyce Osbourne <alyceosbourne@outlook.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

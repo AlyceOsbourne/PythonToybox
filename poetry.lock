@@ -1,0 +1,8 @@
+package = []
+
+[metadata]
+lock-version = "1.1"
+python-versions = ">=3.10.0"
+content-hash = "e7a03627f5b6d7b716b328265dd6f7300f57ed7fcd551eaaa1f8e27ce41cee38"
+
+[metadata.files]
